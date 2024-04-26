@@ -19,7 +19,7 @@ public static class DatabaseService
     /// </summary>
     private static string GetConnectionString()
     {
-        return @"Host=10.30.0.137;Port=5432;Database=gr622_shmama;Username=gr622_shmama;Password=android152006";
+        return @"Host=10.30.0.137;Port=5432;Database=;Username=;Password=6";
     }
 
     /// <summary>
